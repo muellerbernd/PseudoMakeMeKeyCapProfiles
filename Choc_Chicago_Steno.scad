@@ -19,7 +19,7 @@ keycap(
   Stab   = 0, 
   visualizeDish = false, // turn on debug visual of Dish 
   crossSection  = false, // center cut to check internal
-  homeDot = false, //turn on homedots
+  homeDot = true, //turn on homedots
   Legends = false
   ); 
 
